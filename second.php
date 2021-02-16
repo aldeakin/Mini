@@ -1,0 +1,3 @@
+<?
+include "mod.php";
+?>
