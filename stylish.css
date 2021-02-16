@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+
+h1 {
+    color: coral;
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+p {
+    font-family: 'Amiri', serif;
+    color: #a9a9a9;
+}
+
+body{
+    background-color: #333333;
+}
